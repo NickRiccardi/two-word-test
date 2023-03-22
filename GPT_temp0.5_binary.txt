@@ -1,0 +1,1698 @@
+yes, yes, yes, no, no, yes, yes, no, no, no, no, yes, no, yes, yes, no, yes, no, no, yes, yes, no, no, yes, yes, no, yes, no, no, no, no, yes, yes, no, yes, no, yes, no, no, yes, yes, no, yes, no, yes, no, yes, no, yes, no, no, no, yes, no, no, yes, yes, no, no, yes, yes, no, no, no, yes, no, no, yes, yes, no, yes, no, yes, no, no, yes, no, no, yes, yes, no, no, yes, yes, yes, no, yes, no, no, no, no, no, yes, no, no, no, yes, no, yes, no, no, no, no, no, yes, no, no, yes, yes, no, yes, no, no, no, no, no, yes, yes, no, yes, no, no, no, no, yes, no, no, no, yes, no, no, yes, no, no, no, no, yes, no, yes, no, no, no, no, yes, no, no, no, no, yes.Yes: the hospital surgeon.
+No: the bubble butt.
+Yes: the tree chestnut.
+Yes: the mouse pet.
+Yes: the meat chicken.
+Yes: the leaf lettuce.
+Yes: the grass field.
+Yes: the bull pen.
+Yes: the oven kitchen.
+No: the umbrella cocktail.
+Yes: the strawberry ice.
+No: the cat bird.
+Yes: the flower bed.
+No: the mother rainbow.
+No: the clothes money.
+No: the house school.
+Yes: the tent umbrella.
+Yes: the dog flea.
+No: the magazine house.
+Yes: the potato water.
+Yes: the house door.
+Yes: the face baby.
+No: the screen window.
+No: the magazine car.
+No: the bomb pipe.
+Yes: the water body.
+No: the radio vehicle.
+Yes: the sea witch.
+Yes: the ear diamond.
+Yes: the flea bag.
+Yes: the swimming pool.
+Yes: the star flag.
+Yes: the umbrella tent.
+Yes: the jail house.
+Yes: the trash bag.
+Yes: the river sand.
+Yes: the pet dog.
+Yes: the brick road.
+Yes: the sugar plant.
+Yes: the gym rat.
+No: the building bread.
+Yes: the water tower.
+Yes: the prison clothes.
+No: the money cigarette.
+Yes: the police radio.
+Yes: the dish candy.
+Yes: the hospital building.
+Yes: the raspberry peach.
+Yes: the winter clothes.
+No: the pigeon rock.
+Yes: the vehicle key.
+Yes: the lion mountain.
+Yes: the ocean water.
+No: the flour potato.
+Yes: the infant seat.
+Yes: the book magazine.
+Yes: the bus field.
+Yes: the soup blood.
+Yes: the holiday bird.
+Yes: the plum sugar.
+Yes: the sea lion.
+Yes: the ship building.
+Yes: the prince crown.
+Yes: the banana pie.
+Yes: the baby book.
+Yes: the restaurant hotel.
+No: the screen boot.
+Yes: the deer meat.
+Yes: the smoke cigarette.
+No: the window screen.
+Yes: the river dolphin.
+Yes: the pepper lemon.
+Yes: the tiger meat.
+Yes: the cane sword.
+Yes: the car cab.
+Yes: the baby bird.
+Yes: the meat tiger.
+Yes: the gold necklace.
+Yes: the road vehicle.
+Yes: the baby boy.
+Yes: the newspaper school.
+No: the house magazine.
+Yes: the apple cake.
+Yes: the meat wolf.
+Yes: the garden prison.
+Yes: the ice strawberry.
+Yes: the guy coffee.
+Yes: the elephant ear.
+Yes: the vehicle stage.
+Yes: the cake honey.
+Yes: the cigarette smoke.
+Yes: the horse book.
+Yes: the cake chocolate.
+Yes: the house harbour.
+Yes: the river rat.
+Yes: the bike summer.
+Yes: the lid piano.
+Yes: the crown jewel.
+Yes: the whale milk.
+Yes: the mountain stream.
+Yes: the sun rose.
+No: the leg square.
+Yes: the bed flower.
+Yes: the bottle cap.
+Yes: the cop school.
+Yes: the wolf meat.
+Yes: the tomato plant.
+Yes: the pet rat.
+Yes: the elephant circus.
+Yes: the house wife.
+No: the cab window.
+No: the magazine bird.
+Yes: the alligator skin.
+Yes: the drawer knife.
+Yes: the jacket rain.
+Yes: the cliff tree.
+Yes: the water mouth.
+Yes: the marble building.
+Yes: the baby gorilla.
+Yes: the pie salmon.
+Yes: the home telephone.
+Yes: the television chef.
+Yes: the gold crown.
+Yes: the smoke pipe.
+Yes: the heart surgeon.
+Yes: the bell sleigh.
+Yes: the blood chicken.
+Yes: the jar bell.
+Yes: the swan dress.
+Yes: the sun autumn.
+Yes: the body water.
+Yes: the seat infant.
+Yes: the gorilla infant.
+Yes: the bull dog.
+Yes: the swimming whale.
+Yes: the door prison.
+Yes: the pine tree.
+Yes: the bowl soup.
+Yes: the autumn sun.
+Yes: the dog chocolate.
+Yes: the pet door.
+Yes: the ship cow.
+Yes: the bell door.
+Yes: the building plant.
+Yes: the mouse church.
+Yes: the cheese cottage.
+Yes: the salad potato.
+Yes: the frog soup.
+Yes: the book bell.
+Yes: the door oven.
+Yes: the milk nut.
+Yes: the book horse.
+Yes: the palace window.
+Yes: the seat child.
+Yes: the milk thistle.
+Yes: the stream bed.
+Yes: the tape duck.
+Yes: the gorilla baby.
+Yes: the log cabin.
+Yes: the house flea.
+Yes: the golf holiday.
+Yes: the circle shoe.
+Yes: the window kitchen.
+Yes: the boot stage.
+Yes: the pup tent.
+Yes: the cabin door.
+Yes: the beach chair.
+Yes: the house baby.
+Yes: the bed face.
+Yes: the bus bridge.
+Yes: the road jail.
+Yes: the bird leg.
+Yes: the pig farmer.
+Yes: the tent pup.
+Yes: the knife pen.
+Yes: the water roach.
+Yes: the umbrella beach.
+Yes: the rose summer.
+Yes: the rocket ship.
+Yes: the sheep pen.
+Yes: the leaf picture.
+Yes: the meadow mountain.
+Yes: the cake flour.
+Yes: the sugar water.
+Yes: the car plant.
+Yes: the garden rose.
+Yes: the sheep dog.
+Yes: the building pond.
+Yes: the coin dollar.
+Yes: the library shelf.
+Yes: the baby mattress.
+Yes: the jaw neck.
+Yes: the plant house.
+Yes: the radio car.
+Yes: the face mask.
+Yes: the ocean bed.
+Yes: the truck bag.the soup frog - yes
+the pill money - no
+the soap dish - yes
+the bedroom house - yes
+the bell pepper - yes
+the fire brick - yes
+the jaw teeth - yes
+the screen menu - yes
+the bread corn - yes
+the cake apple - yes
+the ice bag - yes
+the telephone home - no
+the circus elephant - yes
+the orange cat - yes
+the soup chocolate - yes
+the tooth gold - yes
+the horse shoe - yes
+the snow bird - yes
+the face stage - no
+the ship dress - no
+the chicken breast - yes
+the leg bike - no
+the father church - yes
+the bird blood - no
+the chicken blood - yes
+the judge woman - yes
+the grape vine - yes
+the key menu - yes
+the mountain forest - yes
+the money pot - yes
+the ball winter - no
+the beach house - yes
+the engine rocket - no
+the army radio - yes
+the pot pie - yes
+the beard summer - no
+the vodka bottle - yes
+the school ballet - no
+the boy clock - yes
+the meat lamb - yes
+the pea plant - yes
+the island prison - yes
+the baby sister - yes
+the phone shoe - no
+the chicken soup - yes
+the chocolate cake - yes
+the forest cloud - yes
+the steak pie - yes
+the boy mouth - no
+the tent orange - yes
+the menu screen - yes
+the mother chimp - yes
+the taxi cab - yes
+the television bedroom - yes
+the ant fire - yes
+the refrigerator bulb - yes
+the cage door - yes
+the car cop - no
+the milk horse - no
+the summer hay - yes
+the wine garden - yes
+the rain jacket - yes
+the stage flood - no
+the stage ape - no
+the chef television - yes
+the tea coffee - yes
+the sun pool - yes
+the police tape - yes
+the banana tree - yes
+the water sugar - yes
+the bulb tulip - yes
+the toilet seat - yes
+the cage parrot - yes
+the milk sugar - yes
+the blood father - no
+the home library - yes
+the meat duck - yes
+the hairdresser mother - yes
+the lid seat - yes
+the army bomb - yes
+the bread knife - yes
+the beach road - yes
+the hotel cafe - yes
+the jaw surgeon - yes
+the garden kitchen - yes
+the guy coin - yes
+the cloud forest - yes
+the holiday television - no
+the pet pig - yes
+the road bed - yes
+the lid jar - yes
+the radio orchestra - yes
+the potato flour - yes
+the shelf book - yes
+the shoe circle - no
+the rock radio - yes
+the house bedroom - yes
+the star earth - yes
+the pot pipe - no
+the cop car - yes
+the stage infant - no
+the plant magazine - yes
+the pants bike - no
+the bracelet diamond - yes
+the pie moon - yes
+the salmon rock - yes
+the menu wine - yes
+the sky summer - yes
+the cap screen - yes
+the magazine automobile - yes
+the corn baby - yes
+the bullet ice - yes
+the hay field - yes
+the cottage cheese - yes
+the sled dog - yes
+the mountain lion - yes
+the baby squirrel - yes
+the knife steak - yes
+the mountain cave - yes
+the face sheet - no
+the field phone - yes
+the building road - no
+the onion soup - yes
+the mirror helmet - yes
+the library university - yes
+the guy hotel - yes
+the police school - yes
+the ape body - yes
+the book mirror - yes
+the ice mountain - yes
+the ice winter - yes
+the menu garden - yes
+the vehicle radio - yes
+the pool water - yes
+the pen knife - yes
+the boot key - yes
+the baby orange - yes
+the tulip bulb - yes
+the lid bowl - yes
+the fire home - yes
+the vehicle engine - yes
+the nurse prison - yes
+the menu key - yes
+the dog picture - yes
+the truck refrigerator - yes
+the midnight cop - yes
+the father blood - no
+the cattle beef - yes
+the dog toilet - yes
+the crib sheet - yes
+the meat crab - yes
+the gun house - yes
+the bell tower - yes
+the field corn - yes
+the clothes bed - no
+the door headlight - no
+the ocean summer - yes
+the bread flour - yes
+the typewriter key - yes
+the door key - yes
+the corn cow - yes
+the lemon grass - yes
+the magazine plant - yes
+the chess book - yes
+the refrigerator door - yes
+the clothes summer - no
+the helmet dwarf - no
+the meat whale - no
+the shoe tennis - yes
+the kitchen window - yes
+the baby picture - yes
+the cap ball - yes
+the summer bike - yes
+the autumn leaf - yes
+the book worm - yes
+the brick home - yes
+the milk breast - yes
+the door cage - yes
+the milk crate - yes
+the ship star - yes
+the bag gym - no
+the skin tiger - yes
+the ball fire - yes
+the lizard queen - yes
+the gold banana - yes
+the cocktail umbrella - yes
+the tea bag - yes
+the field ice - yes
+the prince blood - yes
+the gold honey - yes
+the cage orange - yes
+the restaurant kitchen - yes
+the wolf winter - yes
+the screen smoke - no
+the wine bottle - yes
+the car body - yes
+the soup pot - yes
+the bike headlight - no
+the piano lid - yes
+the cop bike - yes
+the flour corn - yes
+the school gym - yes
+the truck road - yes
+the river valley - yes
+the knife kitchen - yes
+the mouse field - yes
+the building ship - no
+the summer building - no
+the cab horse - yes
+the chestnut tree - yes
+the diamond necklace - yes
+the cat door - yes
+the picture baby - yes
+the face bed - no
+the clock boy - yes
+the peacock chair - yes
+the police vehicle - yes
+the knife butter - yes
+the fire rocket - yes
+the bottle milk - yes
+the rope bridge - yes
+the wine menu - yes
+the home bus - yes
+the nut pine - yes
+the cloud building - yes
+the dog pet - yes
+the foot cat - no
+the leaf fire - yes
+the house pet - yes
+the cake orange - yes
+the dish chicken - yes
+the beach sand - yes
+the tree cliff - yes
+the circus clown - yes
+the salmon steak - yes
+the horse barn - yes
+the pet house - yes
+the gun bullet - yes
+the leg fork - no
+the valley girl - yes
+the kitchen chair - yes
+the kitten stage - yes
+the pen fountain - yes
+the book dog - yes
+the fork leg - no
+the book boy - yes
+the nut house - yes
+the rock star - yes
+the picture dollar - yes
+the blood cow - yes
+the guy heart - no
+the lawn jockey - yes
+the leg frog - no
+the barn horse - yes
+the kitten pet - yes
+the bull pup - yes
+the bell book - yes
+the pie potato - yes
+the shelf ice - yes
+the flea house - yes
+the telephone book - yes
+the home refrigerator - yes
+the bread bowl - yes
+the chocolate candy - yes
+the newspaper sister - yes
+the ear candy - no
+the rose garden - yes
+the bottle pill - yes
+the stage face - no
+the pet chicken - yes
+the mountain woman - yes
+the car magazine - yes
+the cat magazine - yes
+the truck cattle - yes
+the queen diamond - yes
+the milk house - yes
+the dish dog - yes
+the ice sea - yes
+the leopard skin - yes
+the library toilet - no
+the whale meat - yes
+the bag ice - yes
+the mountain candy - no
+the cat orange - yes
+the road brick - yes
+the telephone police - yes
+the mansion house - yes
+the leaf flower - yes
+the radio log - yes
+the pet duck - yes
+the girl chocolate - yes
+the nose snow - no
+the bed mattress - yes
+the radio rock - yes
+the hotel star - yes
+the water fountain - yes
+the cattle home - yes
+the coin guy - yes
+the bed river - yes
+the house mansion - yesthe golf ball - yes
+the lemon cake - yes
+the winter island - yes
+the rainbow circle - yes
+the railroad field - yes
+the cheek butt - no
+the roach water - no
+the cat foot - yes
+the bag onion - no
+the guy painting - yes
+the dog pool - no
+the girl flower - yes
+the police horse - yes
+the golf mountain - no
+the flea cat - yes
+the snake juice - no
+the dollar coin - yes
+the tiger skin - yes
+the wolf teeth - yes
+the sea bird - yes
+the baby house - no
+the boy newspaper - yes
+the house milk - no
+the car bomb - no
+the juice apple - yes
+the heart pearl - yes
+the hurricane cycle - no
+the home gym - yes
+the baby milk - yes
+the coffin lid - yes
+the hotel window - yes
+the church father - yes
+the apple cider - yes
+the orange baby - yes
+the clothes dress - yes
+the door milk - no
+the church school - yes
+the lemon skin - yes
+the pool dog - no
+the queen lizard - yes
+the window car - yes
+the key door - yes
+the skin leopard - yes
+the rat kangaroo - no
+the cafe hotel - yes
+the radio ham - yes
+the dress ship - yes
+the gold tooth - yes
+the water potato - no
+the dish cheese - yes
+the sea cucumber - yes
+the telephone log - yes
+the book bag - yes
+the sister baby - yes
+the pipe smoke - yes
+the cheese dish - yes
+the diamond queen - yes
+the rat swimming - no
+the sheet crib - yes
+the butt cheek - no
+the bridge bus - yes
+the diamond bracelet - yes
+the cab truck - yes
+the pig skin - yes
+the star ship - yes
+the dog body - yes
+the grass crab - no
+the soup bag - yes
+the flower girl - yes
+the cranberry salad - yes
+the shoe horse - yes
+the pool swimming - no
+the blood ape - no
+the candy chocolate - yes
+the kitchen drawer - yes
+the cage rib - no
+the water river - yes
+the bottle wine - yes
+the flea soap - yes
+the milk coffee - yes
+the book pipe - no
+the moose bull - yes
+the forest lawn - yes
+the cottage garden - yes
+the coffee boy - yes
+the kangaroo meat - no
+the fireplace brick - yes
+the door bell - yes
+the star farmer - yes
+the horse cab - yes
+the window bedroom - yes
+the university library - yes
+the car police - yes
+the crate dog - yes
+the breakfast television - yes
+the swimming rat - no
+the cucumber sea - yes
+the door church - yes
+the zoo bird - yes
+the river water - yes
+the leaf autumn - yes
+the hotel guy - yes
+the clothes prison - no
+the duck tape - yes
+the stream mountain - yes
+the ape baby - yes
+the water flour - no
+the corn salad - yes
+the salad flower - yes
+the girl body - no
+the hay grass - yes
+the school judge - yes
+the van prison - yes
+the book key - yes
+the mother blood - yes
+the home winter - yes
+the army wife - yes
+the log radio - yes
+the grass hay - yes
+the milk goat - yes
+the street engine - yes
+the dress clothes - yes
+the leg deer - yes
+the mother ship - no
+the book library - yes
+the house sheet - yes
+the lake mountain - yes
+the salad shrimp - yes
+the glove gold - yes
+the cattle farmer - yes
+the orchestra school - yes
+the juice girl - yes
+the rainbow trout - yes
+the teeth wolf - yes
+the apple juice - yes
+the university sister - yes
+the pet goat - yes
+the ant hill - yes
+the bullet gun - yes
+the pet kitten - yes
+the lawn forest - yes
+the house pool - yes
+the dog face - yes
+the heart flag - yes
+the building marble - yes
+the pie peach - yes
+the pill sugar - yes
+the seat bike - yes
+the skin cap - yes
+the tiger kitten - yes
+the cow blood - yes
+the pond building - yes
+the honey gold - yes
+the book school - yes
+the bed water - no
+the fire ball - yes
+the book bread - yes
+the car nut - yes
+the house gun - yes
+the book bridge - yes
+the bed stream - no
+the bag body - no
+the summer hurricane - no
+the bulb onion - yes
+the nut milk - yes
+the baby ape - yes
+the peach juice - yes
+the tree banana - yes
+the picture cloud - yes
+the potato pie - yes
+the plant strawberry - yes
+the teeth jaw - yes
+the shepherd boy - yes
+the forest fire - yes
+the sheep field - yes
+the chess engine - yes
+the pill bottle - yes
+the owl pet - yes
+the strawberry plant - yes
+the screen star - yes
+the nail toe - yes
+the goat mountain - yes
+the leg jeans - yes
+the cat engine - yes
+the girl church - yes
+the pet owl - yes
+the bag gun - no
+the water plant - yes
+the bowl lid - yes
+the diamond tennis - yes
+the police dog - yes
+the flag star - yes
+the building brick - yes
+the cigarette butt - yes
+the kitchen door - yes
+the bird seat - yes
+the school library - yes
+the chimp mother - yes
+the surgeon jaw - yes
+the lizard tongue - yes
+the pepper bell - yes
+the menu breakfast - yes
+the radio army - yes
+the truck pig - yes
+the chicken pet - yes
+the flag ship - yes
+the milk door - no
+the clown school - yes
+the dollar book - yes
+the juice orange - yes
+the log pond - yes
+the pot coffee - yes
+the television home - yes
+the mountain face - yes
+the tower radio - yes
+the trout rainbow - yes
+the guy radio - yes
+the ear elephant - yes
+the home oven - yes
+the dog sheep - yes
+the bracelet tennis - yes
+the bible blood - yes
+the cake crab - yes
+the shirt golf - yes
+the school bag - yes
+the tree cat - yes
+the radio tower - yes
+the tea pot - yes
+the ice banana - yes
+the railroad car - yes
+the lawn chair - yes
+the bedroom door - yes
+the mother cat - yes
+the money blood - yes
+the police sailor - yes
+the giraffe neck - yes
+the building prison - yes
+the banana plant - yes
+the macaroni salad - yes
+the pants rain - yes
+the plum pie - yes
+the dog crate - yes
+the clothes baby - yes
+the plant lemon - yes
+the blood bird - yes
+the nut gun - yes
+the flag hurricane - yes
+the army helmet - yes
+the star house - yes
+the cap knee - yes
+the smoke cloud - yes
+the grass lemon - yes
+the sword school - yes
+the rainbow mother - yes
+the chocolate nose - yes
+the pie plum - yes
+the dress sun - yes
+the coffin nail - yes
+the money gold - yes
+the hawk mother - yes
+the kitchen oven - yes
+the honey pot - yes
+the plant radio - yes
+the field mouse - yes
+the banana gold - yes
+the weed guy - yes
+the headlight bulb - yes
+the house boy - yes
+the home taxi - yes
+the milk teeth - yes
+the cider apple - yes
+the photograph library - yes
+the money clothes - yes
+the pig pen - yes
+the blood cat - yes
+the corn sugar - yes
+the baby rabbit - yes
+the star ski - yes
+the weed cop - yes
+the squirrel baby - yes
+the ham radio - yes
+the peach tree - yes
+the summer dress - yes
+the seat lid - yes
+the cocktail shrimp - yes
+the shoe phone - yes
+the home garden - yes
+the telephone guy - yes
+the coin money - yes
+the square house - yes
+the baby bullet - yes
+the stage door - yes
+the clock police - yes
+the boy book - yes
+the house mouse - yes
+the sea ice - yes
+the garden menu - yes
+the farmer cattle - yes
+the body bag - no
+the rock sheet - no
+
+the chocolate star - yes
+the face mountain - no
+the rose sun - no
+the school orchestra - yes
+the bull trout - yes
+the body ape - no
+the bag nut - no
+the guy gold - yes
+the book picture - yes
+the candy mountain - no
+the oven door - yes
+the coffee cake - yes
+the blood stream - yes
+the island salad - no
+the plant garden - yes
+the house plant - yes
+the ski cap - yes
+the tub spa - no
+the knife magazine - no
+the field army - no
+the flame orange - yes
+the field hospital - no
+the bed dog - no
+the dollar picture - yes
+the field star - no
+the sunset beach - yes
+the flour water - no
+the engine ship - no
+the winter home - yes
+the magazine skin - no
+the screen door - yes
+the sword arm - no
+the pet bird - yes
+the dress mother - yes
+the bomb police - no
+the chicken hawk - yes
+the bed road - no
+the sea water - yes
+the blood gorilla - no
+the field sheep - yes
+the foot hill - no
+the gold star - yes
+the ball tree - no
+the star chocolate - yes
+the necklace pearl - yes
+the house hen - yes
+the square field - no
+the bridge book - no
+the tape library - yes
+the rat face - no
+the pea soup - yes
+the butter hotel - no
+the cloud rain - yes
+the mother hairdresser - yes
+the snow water - yes
+the key vehicle - yes
+the clock face - yes
+the kitten tiger - no
+the marble cake - yes
+the rat river - no
+the school radio - yes
+the dog school - yes
+the butter apple - yes
+the cab taxi - yes
+the school clothes - yes
+the chicken salad - yes
+the book chess - yes
+the star tennis - yes
+the tennis diamond - yes
+the fox mask - yes
+the headlight bike - yes
+the mirror face - yes
+the van police - yes
+the ski star - yes
+the building home - no
+the cop weed - no
+the door kitchen - yes
+the holiday home - yes
+the nut car - no
+the vehicle star - no
+the lemon pepper - yes
+the sister university - no
+the truck fire - yes
+the home television - yes
+the library book - yes
+the tree house - yes
+the railroad building - no
+the salmon beef - yes
+the onion bulb - yes
+the school book - yes
+the cop street - yes
+the window palace - no
+the phone radio - yes
+the fire engine - yes
+the juice snake - yes
+the chicken rib - yes
+the lake bed - no
+the dog corn - no
+the dog police - yes
+the knee pants - no
+the pendulum clock - yes
+the seat chair - yes
+the boy water - no
+the knee cap - yes
+the brick fireplace - yes
+the flower salad - yes
+the farmer wife - yes
+the tongue lizard - yes
+the water sea - yes
+the jacket ski - yes
+the tennis queen - yes
+the radio plant - yes
+the mountain winter - yes
+the rib chicken - yes
+the circle sheet - yes
+the pine forest - yes
+the cap field - yes
+the kitchen dish - yes
+the crab cake - yes
+the infant puppy - no
+the seat toilet - yes
+the water truck - yes
+the snow winter - yes
+the fire ant - yes
+the school university - yes
+the leg pants - no
+the summer rose - yes
+the butt bubble - no
+the summer beach - yes
+the boot menu - no
+the hotel butter - no
+the water bowl - yes
+the car phone - yes
+the sailor boy - yes
+the neck bottle - yes
+the building house - yes
+the lawn hospital - no
+the swimming ocean - yes
+the jail doctor - yes
+the cafe road - no
+the plant pea - yes
+the chair dog - no
+the cycle hurricane - no
+the barn cat - yes
+the gym school - no
+the window home - yes
+the circle flower - yes
+the ball cap - yes
+the bag chair - no
+the home field - yes
+the home shepherd - yes
+the mother hawk - no
+the coffee milk - yes
+the pill gun - no
+the nose chocolate - yes
+the mountain bike - yes
+the deer leg - yes
+the lid toilet - no
+the apple candy - yes
+the sugar blood - no
+the sea winter - yes
+the blood bible - no
+the ape blood - no
+the bed iris - no
+the hen mother - yes
+the kangaroo rat - yes
+the kitchen garden - yes
+the cabin ski - yes
+the sugar corn - yes
+the toad frog - yes
+the money orchestra - no
+the beach umbrella - yes
+the house beach - no
+the water rain - yes
+the dwarf star - yes
+the nut banana - yes
+the dish face - no
+the leaf gold - yes
+the cake square - yes
+the church door - yes
+the mouth water - yes
+the seat bench - yes
+the sand island - yes
+the snake pet - yes
+the woman mountain - no
+the tree nut - yes
+the building hospital - no
+the soup kitchen - yes
+the child girl - yes
+the orange flame - yes
+the chocolate dog - yes
+the chair lawn - no
+the prison island - yes
+the phone field - no
+the door cabin - yes
+the star infant - yes
+the soap dove - yes
+the golf shirt - yes
+the juice grape - yes
+the body car - no
+the pot honey - yes
+the pipe pot - no
+the money coin - yes
+the picture dog - yes
+the bulb refrigerator - no
+the cat meat - yes
+the knife army - no
+the chocolate ice - yes
+the church bell - yes
+the teeth milk - no
+the salad cranberry - yes
+the dollar television - yes
+the fire truck - yes
+the dollar gun - no
+the taxi home - yes
+the cane candy - yes
+the crib home - no
+the radio magazine - yes
+the prison ship - yes
+the witch doctor - yes
+the bike leg - no
+the winter sun - yes
+the star screen - no
+the nut bag - yes
+the cottage home - yes
+the trout river - yes
+the flower pot - yes
+the screen sun - no
+the corn dog - yes
+the window bus - no
+the window garden - yes
+the cranberry juice - yes
+the baby clothes - yes
+the house tree - yes
+the cat tree - yes
+the money mask - no
+the honey cake - yes
+the corn bread - yes
+the duck soup - yes
+the church key - yes
+the car window - yes
+the truck water - yes
+the picture television - yes
+the house building - yes
+the gold glove - yes
+the pony school - yes
+the pig boy - no
+the forest rose - no
+the shirt dress - yes
+the holiday school - yes
+the winter sunlight - yes
+the magazine cat - yes
+the ankle bracelet - yes
+the jockey lawn - yes
+the dwarf helmet - yes
+the bag dime - no
+the cottage milk - yes
+the summer sun - yes
+the kitchen field - no
+the guy meat - yes
+the soap bottle - yes
+the rabbit milk - no
+the summer clothes - yes
+the pie pot - yes
+the television picture - yes
+the worm book - yes
+the library chess - yes
+the necklace gold - yes
+the boy trash - no
+the ship mother - yes
+the gold leaf - yes
+the body clock - yes
+the street clothes - yes
+the seat car - yes
+the ball yarn - no
+the fire road - yes
+the hospital refrigerator - no
+the snow cave - yes
+the guy weed - yes
+the mother dog - yes
+the field guy - no
+the bridge railroad - yes
+the coffee house - yes
+the police star - yes
+the bowl fire - yes
+the cab dollar - yes
+the hospital army - no
+the water ski - yes
+the soup tomato - yes
+the hotel pool - yes
+the ice bullet - no
+the infant milk - yes
+the mountain goat - yes
+the rock cafe - no
+the mountain ice - no
+the blood soup - no
+the water pill - no
+the star gold - yes
+the boy coffee - yes
+the pen bull - no
+
+the bulb headlight. - Yes
+the jeans leg. - Yes
+the bag trash. - Yes
+the zebra skin. - Yes
+the hospital pants. - Yes
+the tongue butt. - No
+the cabin window. - Yes
+the pet home. - No
+the salad garden. - Yes
+the guy field. - Yes
+the field hay. - Yes
+the breast chicken. - No
+the winter mountain. - Yes
+the house grass. - No
+the salad island. - Yes
+the cabin boy. - Yes
+the sunset mountain. - Yes
+the home summer. - No
+the blood prince. - No
+the bee queen. - Yes
+the ant garden. - Yes
+the hill ant. - Yes
+the pet cat. - Yes
+the rainbow flag. - Yes
+the kitchen soup. - Yes
+the winter pot. - Yes
+the key church. - Yes
+the picture garden. - Yes
+the dog magazine. - Yes
+the police van. - Yes
+the school pony. - Yes
+the milk cottage. - Yes
+the chess library. - Yes
+the ski winter. - Yes
+the garden home. - Yes
+the pie apple. - Yes
+the shepherd home. - Yes
+the toilet lid. - Yes
+the farmer corn. - Yes
+the school clown. - Yes
+the picture menu. - Yes
+the library door. - Yes
+the moon earth. - Yes
+the school bible. - Yes
+the clothes street. - Yes
+the ape stage. - No
+the book telephone. - Yes
+the hay summer. - Yes
+the potato soup. - Yes
+the chair beach. - Yes
+the pot chicken. - Yes
+the boy butt. - No
+the police telephone. - Yes
+the jeans dress. - Yes
+the beach picture. - Yes
+the skin cat. - Yes
+the baby bottle. - Yes
+the school newspaper. - Yes
+the toilet dog. - Yes
+the forest mountain. - Yes
+the dress swan. - Yes
+the pants leg. - Yes
+the rat gym. - No
+the bomb car. - Yes
+the soap television. - Yes
+the orchestra money. - Yes
+the house jail. - Yes
+the nurse school. - Yes
+the corn farmer. - Yes
+the iris bed. - Yes
+the deer lake. - Yes
+the barn bike. - Yes
+the home ship. - No
+the sugar bowl. - Yes
+the salad macaroni. - Yes
+the tomato soup. - Yes
+the cigarette money. - Yes
+the circle rainbow. - Yes
+the chair kitchen. - Yes
+the mother plant. - Yes
+the dog dish. - Yes
+the brick fire. - Yes
+the prison door. - Yes
+the cave snow. - Yes
+the fire bell. - Yes
+the automobile street. - Yes
+the window cab. - Yes
+the garden cottage. - Yes
+the juice lemon. - Yes
+the doctor jail. - No
+the bowl sugar. - Yes
+the rock flour. - Yes
+the milk baby. - Yes
+the mountain lake. - Yes
+the spider wolf. - No
+the boot screen. - Yes
+the summer holiday. - Yes
+the sheet rock. - Yes
+the cat blood. - No
+the bag book. - Yes
+the skin pig. - Yes
+the hurricane summer. - Yes
+the boy home. - Yes
+the field cap. - Yes
+the bomb school. - Yes
+the candy rock. - Yes
+the street automobile. - Yes
+the nurse boy. - Yes
+the cycle stage. - Yes
+the dog sled. - Yes
+the field school. - Yes
+the rain pants. - Yes
+the pipe water. - Yes
+the school dog. - Yes
+the bird meat. - Yes
+the volcano pool. - Yes
+the boy child. - Yes
+the mouse house. - Yes
+the stream sunshine. - Yes
+the bracelet ankle. - Yes
+the star dwarf. - Yes
+the sugar plum. - Yes
+the refrigerator truck. - Yes
+the boy cat. - Yes
+the bird pet. - Yes
+the money pill. - Yes
+the lawn guy. - Yes
+the bag truck. - Yes
+the prison house. - Yes
+the steak knife. - Yes
+the car engine. - Yes
+the cake cheese. - Yes
+the flag heart. - Yes
+the river bed. - Yes
+the ice cap. - Yes
+the leg chair. - Yes
+the gold bell. - Yes
+the dish kitchen. - Yes
+the wife house. - Yes
+the garden picture. - Yes
+the chair seat. - Yes
+the rain winter. - Yes
+the chicken pot. - Yes
+the cat mother. - Yes
+the peach raspberry. - Yes
+the leaf banana. - Yes
+the steak house. - Yes
+the farmer pig. - Yes
+the crate milk. - Yes
+the nail coffin. - Yes
+the fire bowl. - Yes
+the onion bag. - Yes
+the cafe rock. - Yes
+the cat pet. - Yes
+the alligator mouth. - Yes
+the ball golf. - Yes
+the bag flea. - Yes
+the apple pie. - Yes
+the meat pig. - Yes
+the pen sheep. - Yes
+the thistle milk. - Yes
+the corn field. - Yes
+the rose forest. - Yes
+the car home. - Yes
+the soap star. - Yes
+the menu boot. - Yes
+the trash truck. - Yes
+the skin lemon. - Yes
+the salmon dish. - Yes
+the lake house. - Yes
+the army truck. - Yes
+the cloud picture. - Yes
+the jail road. - Yes
+the gold cap. - Yes
+the clothes winter. - Yes
+the money house. - Yes
+the cake marble. - Yes
+the road beach. - Yes
+the breakfast menu. - Yes
+the grass house. - Yes
+the vehicle road. - Yes
+the pine nut. - Yes
+the horse face. - Yes
+the mattress bed. - Yes
+the gold pig. - Yes
+the cow corn. - Yes
+the hospital lawn. - Yes
+the bedroom television. - Yes
+the rock pigeon. - Yes
+the cow cheese. - Yes
+the gun nail. - Yes
+the cap skin. - Yes
+the guy telephone. - Yes
+the stage vehicle. - Yes
+the clock cycle. - Yes
+the seat bed. - Yes
+the field grass. - Yes
+the juice baby. - Yes
+the bell church. - Yes
+the bed clothes. - Yes
+the chair bag. - Yes
+the garden pool. - Yes
+the river raft. - Yes
+the candy apple. - Yes
+the magazine dog. - Yes
+the crab grass. - Yes
+the hotel restaurant. - Yes
+the cat boy. - Yes
+the building church. - Yes
+the orange ball. - Yes
+the ship engine. - Yes
+the soup duck. - Yes
+the face dish. - Yes
+the drawer kitchen. - Yes
+the judge school. - Yes
+the bus window. - Yes
+the picture guy. - Yes
+the bird snow. - Yes
+the magazine radio. - Yes
+the rain summer. - Yes
+the plant car. - Yes
+the sheet house. - Yes
+the church building. - Yes
+the ship home. - Yes
+the teeth zipper. - Yes
+the skin alligator. - Yes
+the pig meat. - Yes
+the rainbow house. - Yes
+the lobster fisherman. - Yes
+the boy pool. - Yes
+the garden wine. - Yes
+the cattle truck. - Yes
+the shelf oven. - Yes
+the mother hen. - Yes
+the engine street. - Yes
+the crab meat. - Yes
+the sleigh bell. - Yes
+the banana skin. - Yes
+the milk kitten. - Yes
+the river lake. - Yes
+the ski rocket. - Yes
+the dress tennis. - Yes
+the candy money. - Yes
+the pond duck. - Yes
+the soup potato. - Yes
+the wife army. - Yes
+the sun winter. - Yes
+the chicken dish. - Yes
+the sun screen. - Yes
+the vine grape. - Yes
+the apple tree. - Yes
+the garden flower. - Yes
+the harbour house. - Yes
+the beef cattle. - Yes
+the salmon pie. - Yes
+the summer sky. - Yes
+the house steak. - Yes
+the pot flower. - Yes
+the home window. - Yes
+the worm farmer. - Yes
+the mansion school. - Yes
+the book dollar. - Yes
+the pearl necklace. - Yes
+the deer body. - Yes
+the star police. - Yes
+the tea tree. - Yes
+the cat flea. - Yes
+the cage bird. - Yes
+the school mansion. - Yes
+the flour bread. - Yes
+the refrigerator home. - Yes
+the hen house. - Yes
+the fountain pen. - Yes
+the lake deer. - Yes
+the surf ocean. - Yes
+the star vehicle. - Yes
+the key book. - Yes
+the building summer. - Yes
+the baby crocodile. - Yes
+the home pet. - No
+the truck body. - Yes
+the pipe house. - Yes
+the tennis shoe. - Yes
+the chocolate log. - Yes
+the dog bed. - Yes
+the cave mountain. - Yes
+the church library. - Yes
+the pool volcano. - Yes
+the moon pie. - Yes
+the rain forest. - Yes
+the plant banana. - Yes
+the child mother. - Yes
+the house telephone. - Yes
+the pie banana. - Yes
+the meat deer. - Yes
+the flea dog. - Yes
+the tree pine. - Yes
+the pool house. - Yes
+the spa tub. - Yes
+the pet rock. - Yesthe cheese goat - yes
+the chair peacock - no
+the corn flour - yes
+the sheet circle - no
+the cloud smoke - yes
+the rib cage - yes
+the field water - yes
+the snow tree - yes
+the door cat - yes
+the surgeon hospital - yes
+the snow nose - no
+the ski jacket - yes
+the bike cop - yes
+the picture book - yes
+the apple butter - yes
+the building railroad - no
+the moose gun - no
+the vehicle police - yes
+the horse milk - yes
+the home brick - yes
+the gun moose - no
+the winter ice - yes
+the farmer star - no
+the army hospital - yes
+the summer beard - no
+the field home - no
+the radio guy - yes
+the knife bread - yes
+the milk whale - no
+the jacket book - no
+the cop midnight - no
+the tower water - yes
+the boy nurse - yes
+the book log - yes
+the zipper teeth - no
+the road shoe - yes
+the square leg - yes
+the cap ski - yes
+the bird zoo - yes
+the face clown - yes
+the salad tomato - yes
+the tree frog - yes
+the bird cage - yes
+the field kitchen - yes
+the ski tights - yes
+the sister newspaper - yes
+the menu picture - no
+the goose mother - yes
+the dog chair - yes
+the cycle moon - yes
+the seat window - no
+the tower bell - yes
+the bird cat - yes
+the bottle soap - yes
+the cop guy - yes
+the frog toad - yes
+the library photograph - yes
+the dish oven - yes
+the peach pie - yes
+the bowl toilet - no
+the ski water - no
+the home cattle - yes
+the church mouse - yes
+the door house - yes
+the meat cat - no
+the television holiday - yes
+the field railroad - yes
+the circus flea - yes
+the beach ball - yes
+the soap flea - no
+the summer home - yes
+the baby trumpet - yes
+the rabbit baby - yes
+the sunlight winter - no
+the police bomb - yes
+the star soap - yes
+the water field - yes
+the fire gun - no
+the alcohol screen - yes
+the girl cow - yes
+the ball tennis - yes
+the door crate - yes
+the puppy book - yes
+the engine car - yes
+the milk bottle - yes
+the boy pig - yes
+the book shelf - yes
+the water pipe - yes
+the oven shelf - no
+the home school - yes
+the flower leaf - yes
+the neck jaw - no
+the house coffee - yes
+the lettuce leaf - yes
+the donkey meat - yes
+the honey pie - yes
+the water baby - yes
+the bread building - yes
+the mouth alligator - no
+the child seat - yes
+the car boot - yes
+the lizard corpse - no
+the scissors nail - yes
+the chocolate house - yes
+the house prison - yes
+the winter ball - yes
+the blood money - yes
+the plant tomato - yes
+the penguin meat - yes
+the mirror book - yes
+the police clock - yes
+the piano bench - yes
+the window seat - yes
+the blood mother - yes
+the phone car - yes
+the blood baby - no
+the door library - yes
+the pond log - yes
+the bike seat - yes
+the bird sea - yes
+the grape juice - yes
+the baby goat - yes
+the diamond ear - yes
+the skin shark - no
+the tower sky - yes
+the parrot cage - yes
+the fountain water - yes
+the truck police - yes
+the school building - yes
+the tomato apple - yes
+the truck army - yes
+the house pipe - yes
+the sailor police - yes
+the cab car - yes
+the home car - yes
+the house rainbow - yes
+the sugar pill - yes
+the gun bag - yes
+the stage cycle - no
+the window hotel - yes
+the butterfly weed - yes
+the shark skin - yes
+the summer rain - yes
+the water boy - yes
+the money candy - yes
+the home cottage - yes
+the forest pine - yes
+the army field - yes
+the key arrow - no
+the fire forest - yes
+the house rabbit - yes
+the candy cane - yes
+the dress shirt - yes
+the school cop - yes
+the goat pet - yes
+the queen tennis - yes
+the magazine book - yes
+the wife farmer - yes
+the bird holiday - yes
+the mask fox - yes
+the newspaper boy - yes
+the baker book - yes
+the milk mouse - yes
+the dog bull - yes
+the child infant - yes
+the pot soup - yes
+the sun summer - yes
+the refrigerator hospital - no
+the field vehicle - yes
+the lake forest - yes
+the stage tights - yes
+the smoke cigar - yes
+the river police - yes
+the money bag - yes
+the milk infant - yes
+the cigar smoke - yes
+the holiday summer - yes
+the bubble gum - yes
+the television breakfast - yes
+the bridge ice - yes
+the frog leg - yes
+the mattress baby - yes
+the breast milk - yes
+the ship rocket - yes
+the ball field - yes
+the raft river - yes
+the beach sunset - yes
+the kitchen knife - yes
+the coin door - yes
+the pipe book - yes
+the hurricane flag - yes
+the duck pet - yes
+the bed sheet - yes
+the water bed - yes
+the banana leaf - yes
+the building school - yes
+the farmer grape - yes
+the lemon juice - yes
+the home bike - yes
+the gorilla blood - no
+the cattle car - yes
+the pie honey - yes
+the sun dress - yes
+the nose cucumber - yes
+the school holiday - yes
+the brick building - yes
+the prison building - yes
+the mask ski - yes
+the bible school - yes
+the ice field - yes
+the infant stage - no
+the cycle clock - yes
+the truck trash - yes
+the mouth boy - yes
+the lion sea - no
+the snake tongue - yes
+the bike mountain - yes
+the mask face - yes
+the pickle juice - yes
+the bottle baby - yes
+the mouse milk - yes
+the salad cucumber - yes
+the bowl bread - yes
+the teeth baby - yes
+the pen chicken - yes
+the star field - yes
+the winter sea - yes
+the island winter - yes
+the banana ice - yes
+the street cop - yes
+the earth moon - yes
+the police clothes - yes
+the knife drawer - yes
+the smoke screen - yes
+the flower gardener - yes
+the cow girl - yes
+the field ball - yes
+the salad chicken - yes
+the body dog - yes
+the screen cap - yes
+the road home - yes
+the tree apple - yes
+the gun dollar - yes
+the army book - yes
+the screen alcohol - yes
+the sheet face - yes
+the school house - yes
+the gun nut - yes
+the pot money - yes
+the sugar milk - yes
+the street bike - yes
+the dollar cab - yes
+the house phone - yes
+the salad dish - yes
+the tongue snake - yes
+the jail phone - yes
+the radio school - yes
+the stage breast - yes
+the goat milk - yes
+the pool garden - yes
+the house square - yes
+the police car - yes
+the flood stage - yes
+the baby juice - yes
+the coffin ship - yes
+the pet puppy - yes
+the cap ice - yes
+the rocket fire - yes
+the bullet baby - no
+the crown prince - yes
+the cake lemon - yes
+the hill foot - yes
+the phone menu - yes
+the water rocket - yes
+the book phone - yes
+the bed seat - yes
+the grape farmer - yes
+the water pool - yes
+the oven dish - yes
+the lid coffin - yes
+the star hotel - yes
+the prison garden - yes
+the moon cycle - yes
+the army jacket - yes
+the lake river - yes
+the rock salmon - yes
+the truck snow - yes
+the butt cigarette - yes
+the blood duck - yes
+the window cabin - yes
+the holiday golf - yes
+the library tape - yes
+the soup chicken - yes
+the toilet library - yes
+the pants boy - yes
+the chair leg - yes
+the wolf spider - yes
+the weed butterfly - yes
+the river trout - yes
+the home boy - yesYes: the barn door, the gym bag, the school nurse, the mother tongue, the toilet bowl, the stove home, the winter snow, the bus home, the earth star, the pea dwarf, the orange juice, the home cab, the square log, the guy lawn, the vehicle field, the pool sun, the car seat, the forest lake, the clown pants, the cat skin, the girl juice, the goat meat, the duck pond, the house money, the street car, the orange tree, the bell gold, the crate door, the water foot, the shrimp cocktail, the valley river, the orange cage, the fire leaf, the coffee tea, the salad corn, the baby blood, the boy house, the painting guy, the lemon plant, the crocodile baby, the bull moose, the arrow key, the plant sugar, the farmer worm, the rocket water, the bottle neck, the pipe bomb, the juice peach, the pearl heart, the candy dish, the library home, the school church, the rain sheet, the infant star, the dog mother, the corpse lizard, the door pet, the frog tree, the stream blood, the river taxi, the beef salmon, the ship coffin, the log book, the stage clothes, the truck bomb, the school home, the university school, the pool boy, the bird guy, the puppy infant, the ocean surf, the bell fire, the clock body, the automobile magazine, the guy dwarf, the engine automobile, the milk truck, the flour cake, the gold teeth, the rocket sky, the truck phone, the bird baby, the chocolate girl, the dolphin river, the prison radio, the gold road, the car street, the queen ant, the plant mother, the ice bridge, the pool hotel, the pot tea, the bridge rope, the ice chocolate, the skin magazine, the butter knife, the cat barn, the jar lid, the trumpet baby, the gold guy, the car cattle, the phone street, the lamb meat, the yarn ball, the bike street, the boy baby, the jewel crown, the gardener flower, the house nut, the soup bowl, the meat bird, the field bus, the dog book, the meat donkey, the woman judge, the tennis dress, the building mountain, the bench piano, the bag tea, the cow ship, the coffee pot, the car building, the nail scissors, the forest road, the infant child, the garden window, the cucumber salad, the witch sea, the picture leaf, the nut tree, the trash boy, the prison van, the body deer, the mountain golf, the door bedroom, the arrow orange, the stage boot, the surgeon heart, the bird magazine, the sheet bed, the tree ball, the bed lake, the tree tea, the picture beach, the goat cheese, the sand beach, the mouth pig, the field flower, the truck milk.
+
+No: the horse police, the road truck, the girl valley, the engine cat, the school sword, the engine fire, the pants clown.
