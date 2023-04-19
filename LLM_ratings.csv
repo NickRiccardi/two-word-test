@@ -1,0 +1,2161 @@
+﻿Stim,Bard,Bard 0 or 1,Bard Continuous,GPT-3.5,GPT-3.5 0 or 1,GPT-3.5 Continuous,GPT-4,GPT-4 0 or 1,GPT-4 Continuous
+the alcohol blood.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,2
+the alcohol screen.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the alligator mouth.,Makes Sense,1,2,Nonsense,0,3,Makes Sense,1,3
+the alligator skin.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the ankle bracelet.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the ant fire.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the ant garden.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the ant hill.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the ant queen.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the ape baby.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the ape blood.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the ape body.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the ape stage.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the apple butter.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the apple cake.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the apple candy.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the apple cider.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the apple juice.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the apple pie.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the apple tomato.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,0
+the apple tree.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the arm sword.,Nonsense,0,3,Nonsense,0,1,Nonsense,0,1
+the army bomb.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the army book.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the army field.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the army helmet.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the army hospital.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the army jacket.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the army knife.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the army radio.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the army truck.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the army wife.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the arrow key.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the arrow orange.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the automobile engine.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the automobile magazine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the automobile street.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the autumn leaf.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the autumn sun.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the axe rope.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,1
+the baby ape.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the baby bird.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the baby blood.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,0
+the baby book.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the baby bottle.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the baby boy.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,4
+the baby bullet.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the baby clothes.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the baby corn.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the baby crocodile.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the baby face.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the baby goat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the baby gorilla.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the baby house.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the baby juice.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the baby mattress.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the baby milk.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the baby orange.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the baby picture.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the baby rabbit.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the baby sister.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the baby squirrel.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the baby teeth.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the baby trumpet.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the baby water.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bag body.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,1
+the bag book.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the bag chair.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the bag dime.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the bag flea.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the bag gun.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the bag gym.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,3
+the bag ice.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,3
+the bag money.,Makes Sense,1,4,Makes Sense,1,2,Nonsense,0,3
+the bag nut.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the bag onion.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the bag school.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the bag soup.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the bag tea.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the bag trash.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the bag truck.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the baker book.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the ball beach.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the ball cap.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the ball field.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the ball fire.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the ball golf.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the ball orange.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the ball tennis.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the ball tree.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,0
+the ball winter.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the ball yarn.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the ballet school.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,4
+the banana gold.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the banana ice.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the banana leaf.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the banana nut.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the banana pie.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the banana plant.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,1
+the banana skin.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the banana tree.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the barn bike.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the barn cat.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the barn door.,Nonsense,0,2,Makes Sense,1,4,Makes Sense,1,4
+the barn horse.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the beach ball.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the beach chair.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the beach house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the beach picture.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the beach road.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the beach sand.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the beach summer.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the beach sunset.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the beach umbrella.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the beard summer.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the bed clothes.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the bed dog.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the bed face.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bed flower.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the bed iris.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the bed lake.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bed mattress.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the bed ocean.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the bed river.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the bed road.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,0
+the bed seat.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the bed sheet.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the bed stream.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,1
+the bed water.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the bedroom door.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the bedroom house.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the bedroom television.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the bedroom window.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the bee queen.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the beef cattle.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the beef salmon.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the bell book.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the bell church.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the bell door.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the bell fire.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the bell gold.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,1
+the bell jar.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the bell pepper.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the bell sleigh.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the bell tower.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the bench piano.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bench seat.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the bible blood.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the bible school.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the bike barn.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the bike cop.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the bike headlight.,Makes Sense,1,2,Nonsense,0,3,Makes Sense,1,4
+the bike home.,Nonsense,0,2,Nonsense,0,2,Makes Sense,1,3
+the bike leg.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the bike mountain.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the bike pants.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the bike seat.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the bike street.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,3
+the bike summer.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the bird baby.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the bird blood.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the bird cage.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the bird cat.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bird foot.,Nonsense,0,3,Makes Sense,1,1,Nonsense,0,2
+the bird guy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bird holiday.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the bird leg.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the bird magazine.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the bird meat.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the bird pet.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the bird sea.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the bird seat.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the bird snow.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the bird zoo.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the blood alcohol.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,4
+the blood ape.,Makes Sense,1,2,Nonsense,0,1,Nonsense,0,1
+the blood baby.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the blood bible.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the blood bird.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,0
+the blood cat.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,0
+the blood chicken.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the blood cow.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the blood duck.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the blood father.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the blood gorilla.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the blood money.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,3
+the blood mother.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,1
+the blood prince.,Nonsense,0,2,Nonsense,0,2,Makes Sense,1,2
+the blood soup.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the blood stream.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the blood sugar.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,4
+the body ape.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,0
+the body bag.,Makes Sense,1,2,Nonsense,0,1,Makes Sense,1,3
+the body car.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the body clock.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the body deer.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the body dog.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the body girl.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the body truck.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the body water.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the bomb army.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the bomb car.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,2
+the bomb pipe.,Nonsense,0,1,Nonsense,0,1,Nonsense,0,2
+the bomb police.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the bomb school.,Nonsense,0,1,Nonsense,0,3,Nonsense,0,1
+the bomb truck.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the book army.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the book baby.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,0
+the book bag.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the book baker.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the book bell.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the book boy.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the book bread.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,0
+the book bridge.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the book chess.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the book dog.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the book dollar.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the book horse.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the book jacket.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the book key.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the book library.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the book log.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the book magazine.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the book mirror.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,2
+the book phone.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the book picture.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the book pipe.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,0
+the book puppy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the book school.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the book shelf.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the book telephone.,Nonsense,0,3,Nonsense,0,3,Nonsense,0,1
+the book worm.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the boot car.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the boot key.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the boot menu.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the boot screen.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the boot stage.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the bottle baby.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the bottle cap.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the bottle milk.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,3
+the bottle neck.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the bottle pill.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,2
+the bottle soap.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the bottle vodka.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the bottle wine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the bowl bread.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,2
+the bowl fire.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the bowl lid.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the bowl soup.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the bowl sugar.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the bowl toilet.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bowl water.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the boy baby.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the boy book.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,4
+the boy butt.,Makes Sense,1,1,Nonsense,0,1,Nonsense,0,0
+the boy cabin.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,2
+the boy cat.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the boy child.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the boy clock.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the boy coffee.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the boy home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the boy house.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,2
+the boy mouth.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the boy newspaper.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the boy nurse.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the boy pants.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the boy pig.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the boy pool.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the boy sailor.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the boy shepherd.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the boy trash.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the boy water.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the bracelet ankle.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the bracelet diamond.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the bracelet tennis.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the bread book.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the bread bowl.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the bread building.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the bread corn.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the bread flour.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the bread knife.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the breakfast menu.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the breakfast television.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the breast chicken.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,3
+the breast milk.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the breast stage.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the brick building.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the brick fire.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the brick fireplace.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the brick home.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the brick road.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the bridge book.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the bridge bus.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the bridge ice.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the bridge railroad.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the bridge rope.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,2
+the bubble butt.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the bubble gum.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the bubble soap.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the building bread.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the building brick.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the building car.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the building church.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the building cloud.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the building home.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the building hospital.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,3
+the building house.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the building marble.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the building mountain.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the building plant.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the building pond.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the building prison.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the building railroad.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,2
+the building road.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the building school.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the building ship.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,1
+the building summer.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the bulb headlight.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,4
+the bulb onion.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the bulb refrigerator.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the bulb tulip.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the bull dog.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the bull moose.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the bull pen.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the bull pup.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the bull trout.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the bullet baby.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the bullet gun.,Makes Sense,1,0,Makes Sense,1,2,Makes Sense,1,3
+the bullet ice.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the bus bridge.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the bus field.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the bus home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the bus window.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the butt boy.,Nonsense,0,1,Nonsense,0,1,Nonsense,0,0
+the butt bubble.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the butt cheek.,Nonsense,0,2,Nonsense,0,1,Makes Sense,1,0
+the butt cigarette.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the butt tongue.,Nonsense,0,1,Nonsense,0,1,Nonsense,0,0
+the butter apple.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the butter hotel.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the butter knife.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the butterfly weed.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the cab car.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the cab dollar.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the cab home.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the cab horse.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the cab taxi.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the cab truck.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the cab window.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the cabin boy.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the cabin door.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cabin log.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the cabin ski.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the cabin window.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cafe hotel.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the cafe road.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the cafe rock.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the cage bird.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cage door.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the cage orange.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the cage parrot.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the cage rib.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the cake apple.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the cake cheese.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the cake chocolate.,Nonsense,0,4,Makes Sense,1,3,Nonsense,0,3
+the cake coffee.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the cake crab.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,3
+the cake flour.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the cake honey.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the cake lemon.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the cake marble.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the cake orange.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the cake square.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the candy apple.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the candy cane.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the candy chocolate.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the candy dish.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the candy ear.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,0
+the candy money.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the candy mountain.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the candy rock.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the candy wine.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the cane candy.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,1
+the cane sword.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the cap ball.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the cap bottle.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the cap field.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the cap gold.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the cap ice.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the cap knee.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the cap screen.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the cap ski.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the cap skin.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the car body.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the car bomb.,Makes Sense,1,1,Nonsense,0,2,Makes Sense,1,3
+the car boot.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the car building.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the car cab.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the car cattle.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the car clown.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the car cop.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the car engine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the car home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the car magazine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the car nut.,Makes Sense,1,2,Makes Sense,1,1,Nonsense,0,1
+the car phone.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the car plant.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,1
+the car police.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the car radio.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,2
+the car railroad.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the car seat.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the car street.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the car window.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cat barn.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the cat bird.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,0
+the cat blood.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the cat boy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the cat door.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the cat engine.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the cat flea.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the cat foot.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the cat magazine.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,2
+the cat meat.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the cat mother.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the cat orange.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the cat pet.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cat skin.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the cat tree.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the cattle beef.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the cattle car.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the cattle farmer.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cattle home.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the cattle truck.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the cave mountain.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the cave snow.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the chair bag.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the chair beach.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the chair dog.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the chair face.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,0
+the chair kitchen.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the chair lawn.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the chair leg.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the chair peacock.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the chair seat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cheek butt.,Nonsense,0,0,Nonsense,0,1,Nonsense,0,0
+the cheese cake.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the cheese cottage.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,3
+the cheese cow.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the cheese dish.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,3
+the cheese goat.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the chef television.,Nonsense,0,3,Nonsense,0,3,Nonsense,0,1
+the chess book.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the chess engine.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the chess library.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the chestnut tree.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the chicken blood.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the chicken breast.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the chicken dish.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the chicken farmer.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the chicken hawk.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the chicken meat.,Makes Sense,1,4,Nonsense,0,2,Makes Sense,1,4
+the chicken pen.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,4
+the chicken pet.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the chicken pot.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the chicken rib.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the chicken salad.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the chicken soup.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the child boy.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the child girl.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the child infant.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the child mother.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the child seat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the chimp mother.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the chocolate cake.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the chocolate candy.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the chocolate dog.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the chocolate girl.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the chocolate house.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the chocolate ice.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the chocolate log.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the chocolate nose.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the chocolate soup.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the chocolate star.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the church bell.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the church building.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the church door.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the church father.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the church girl.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the church key.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the church library.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the church mouse.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,4
+the church school.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the cider apple.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the cigar smoke.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,3
+the cigarette butt.,Nonsense,0,2,Makes Sense,1,1,Makes Sense,1,1
+the cigarette money.,Nonsense,0,1,Nonsense,0,3,Nonsense,0,1
+the cigarette smoke.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the circle flower.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the circle rainbow.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the circle sheet.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the circle shoe.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the circus clown.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the circus elephant.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the circus flea.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,3
+the cliff tree.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the clock body.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the clock boy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the clock cycle.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the clock face.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the clock pendulum.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the clock police.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the clothes baby.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the clothes bed.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the clothes dress.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the clothes money.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the clothes police.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,0
+the clothes prison.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the clothes school.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the clothes stage.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the clothes street.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,0
+the clothes summer.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,2
+the clothes winter.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the cloud building.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,1
+the cloud forest.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the cloud picture.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the cloud rain.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the cloud smoke.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the clown car.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the clown circus.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the clown face.,Nonsense,0,2,Nonsense,0,2,Makes Sense,1,3
+the clown pants.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the clown school.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the cocktail shrimp.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cocktail umbrella.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the coffee boy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the coffee cake.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the coffee guy.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the coffee house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the coffee milk.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the coffee pot.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the coffee tea.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the coffin lid.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the coffin nail.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,1
+the coffin ship.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the coin dollar.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the coin door.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the coin guy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the coin money.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the cop bike.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the cop car.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the cop guy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the cop midnight.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,2
+the cop school.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the cop street.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the cop weed.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the corn baby.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the corn bread.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the corn cow.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the corn dog.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the corn farmer.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,4
+the corn field.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the corn flour.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the corn salad.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the corn sugar.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,1
+the corpse lizard.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the cottage cheese.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the cottage garden.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the cottage home.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cottage milk.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the cow blood.,Makes Sense,1,1,Makes Sense,1,1,Nonsense,0,1
+the cow cheese.,Nonsense,0,4,Makes Sense,1,3,Nonsense,0,1
+the cow corn.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the cow girl.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the cow ship.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the crab cake.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the crab grass.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,1
+the crab meat.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the cranberry juice.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the cranberry salad.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the crate dog.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the crate door.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the crate milk.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the crib home.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the crib sheet.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the crocodile baby.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the crown gold.,Nonsense,0,4,Makes Sense,1,2,Makes Sense,1,3
+the crown jewel.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the crown prince.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the cucumber nose.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,0
+the cucumber salad.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the cucumber sea.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the cycle clock.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the cycle hurricane.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the cycle moon.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the cycle stage.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the deer body.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the deer lake.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the deer leg.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the deer meat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the diamond bracelet.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the diamond ear.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the diamond necklace.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the diamond queen.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the diamond tennis.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the dime bag.,Makes Sense,1,1,Nonsense,0,1,Makes Sense,1,1
+the dish candy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the dish cheese.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,1
+the dish chicken.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the dish dog.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,1
+the dish face.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the dish kitchen.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the dish oven.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the dish salad.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the dish salmon.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the dish soap.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the doctor jail.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,0
+the doctor witch.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the dog bed.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the dog body.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the dog book.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the dog bull.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the dog chair.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the dog chocolate.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the dog corn.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the dog crate.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the dog dish.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the dog door.,Nonsense,0,2,Nonsense,0,2,Makes Sense,1,1
+the dog face.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the dog flea.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the dog magazine.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the dog mother.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the dog pet.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the dog picture.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the dog police.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the dog pool.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the dog puppy.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,2
+the dog school.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the dog sheep.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the dog sled.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the dog toilet.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the dollar book.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the dollar cab.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the dollar coin.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the dollar gun.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the dollar picture.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the dollar television.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the dolphin river.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the donkey meat.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the door barn.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the door bedroom.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the door bell.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the door cabin.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the door cage.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,2
+the door cat.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the door church.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the door coin.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,0
+the door crate.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,3
+the door dog.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the door headlight.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the door house.,Makes Sense,1,4,Makes Sense,1,2,Nonsense,0,3
+the door key.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the door kitchen.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the door library.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the door milk.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the door oven.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the door pet.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the door prison.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the door refrigerator.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the door screen.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,3
+the door stage.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the dove soap.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,1
+the drawer kitchen.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the drawer knife.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the dress clothes.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the dress jeans.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,3
+the dress mother.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the dress ship.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,0
+the dress shirt.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the dress summer.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the dress sun.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,2
+the dress swan.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the dress tennis.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the duck blood.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the duck meat.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,2
+the duck pet.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the duck pond.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the duck soup.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the duck tape.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,3
+the dwarf guy.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the dwarf helmet.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the dwarf pea.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,0
+the dwarf star.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the ear candy.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the ear diamond.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the ear elephant.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the earth moon.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the earth star.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the elephant circus.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the elephant ear.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the engine automobile.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the engine car.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the engine cat.,Makes Sense,1,2,Nonsense,0,1,Nonsense,0,0
+the engine chess.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the engine fire.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the engine rocket.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the engine ship.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the engine street.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the engine vehicle.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the face baby.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the face bed.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the face chair.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the face clock.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the face clown.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the face dish.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the face dog.,Makes Sense,1,3,Nonsense,0,1,Nonsense,0,1
+the face horse.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the face mask.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the face mirror.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the face mountain.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the face rat.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the face sheet.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the face stage.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the farmer cattle.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the farmer chicken.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the farmer corn.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,4
+the farmer grape.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the farmer pig.,Nonsense,0,4,Makes Sense,1,3,Nonsense,0,3
+the farmer star.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the farmer wife.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the farmer worm.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the father blood.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the father church.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the field army.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the field ball.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the field bus.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the field cap.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the field corn.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the field flower.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the field grass.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the field guy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the field hay.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the field home.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,2
+the field hospital.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the field ice.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the field kitchen.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the field mouse.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the field phone.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the field railroad.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the field school.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the field sheep.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the field square.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the field star.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the field vehicle.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the field water.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the fire ant.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,4
+the fire ball.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the fire bell.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the fire bowl.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the fire brick.,Makes Sense,1,1,Makes Sense,1,3,Makes Sense,1,2
+the fire engine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the fire forest.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the fire gun.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the fire home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the fire leaf.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the fire radio.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the fire road.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the fire rocket.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,2
+the fire truck.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the fireplace brick.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the fisherman lobster.,Nonsense,0,3,Nonsense,0,2,Makes Sense,1,4
+the flag heart.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the flag hurricane.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the flag rainbow.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the flag ship.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the flag star.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,3
+the flame orange.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the flea bag.,Makes Sense,1,1,Makes Sense,1,2,Makes Sense,1,3
+the flea cat.,Nonsense,0,2,Makes Sense,1,1,Nonsense,0,1
+the flea circus.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the flea dog.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the flea house.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the flea soap.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the flood stage.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,2
+the flour bread.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the flour cake.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the flour corn.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the flour potato.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the flour rock.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the flour water.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the flower bed.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,3
+the flower circle.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the flower field.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the flower garden.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the flower gardener.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the flower girl.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the flower leaf.,Nonsense,0,4,Makes Sense,1,3,Nonsense,0,2
+the flower pot.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the flower salad.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the foot bird.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the foot cat.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the foot hill.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,1
+the foot water.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,0
+the forest cloud.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the forest fire.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the forest lake.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the forest lawn.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,2
+the forest mountain.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the forest pine.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,3
+the forest rain.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the forest road.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the forest rose.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the fork leg.,Nonsense,0,1,Nonsense,0,3,Nonsense,0,1
+the fountain pen.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the fountain water.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the fox mask.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the frog leg.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,2
+the frog soup.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the frog toad.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the frog tree.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the garden ant.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,3
+the garden cottage.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the garden flower.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the garden home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the garden kitchen.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the garden menu.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the garden picture.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the garden plant.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the garden pool.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the garden prison.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the garden rose.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the garden salad.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the garden window.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the garden wine.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the gardener flower.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the giraffe neck.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the girl body.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the girl child.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the girl chocolate.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the girl church.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the girl cow.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the girl flower.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the girl juice.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,0
+the girl valley.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the glove gold.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the goat baby.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the goat cheese.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the goat meat.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the goat milk.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the goat mountain.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the goat pet.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the gold banana.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the gold bell.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the gold cap.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the gold crown.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the gold glove.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the gold guy.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the gold honey.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the gold leaf.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the gold money.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,3
+the gold necklace.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the gold pig.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the gold road.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the gold star.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the gold teeth.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the gold tooth.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,3
+the golf ball.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the golf holiday.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the golf mountain.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the golf shirt.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the goose mother.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the gorilla baby.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the gorilla blood.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the gorilla infant.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the grape farmer.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the grape juice.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the grape vine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the grass crab.,Makes Sense,1,2,Nonsense,0,1,Nonsense,0,1
+the grass field.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the grass hay.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the grass house.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the grass lemon.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the gum bubble.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the gun bag.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the gun bullet.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the gun dollar.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the gun fire.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the gun house.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the gun moose.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the gun nail.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the gun nut.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the gun pill.,Makes Sense,1,0,Nonsense,0,1,Nonsense,0,0
+the guy bird.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the guy coffee.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the guy coin.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the guy cop.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,1
+the guy dwarf.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the guy field.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the guy gold.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the guy heart.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the guy hotel.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the guy lawn.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the guy meat.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the guy painting.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the guy picture.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the guy radio.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the guy rocket.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the guy telephone.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the guy weed.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the gym bag.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,4
+the gym home.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the gym rat.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the gym school.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the hairdresser mother.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the ham radio.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the harbour house.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the hawk chicken.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the hawk mother.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the hay field.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the hay grass.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the hay summer.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the headlight bike.,Makes Sense,1,3,Nonsense,0,3,Makes Sense,1,3
+the headlight bulb.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the headlight door.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the heart flag.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the heart guy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,0
+the heart pearl.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the heart surgeon.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,4
+the helmet army.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,4
+the helmet dwarf.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the helmet mirror.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the hen house.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the hen mother.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the hill ant.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the hill foot.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the holiday bird.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the holiday golf.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the holiday home.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the holiday school.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the holiday summer.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the holiday television.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the home bike.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,2
+the home boy.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the home brick.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,2
+the home building.,Makes Sense,1,4,Nonsense,0,2,Makes Sense,1,3
+the home bus.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the home cab.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the home car.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the home cattle.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the home cottage.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the home crib.,Nonsense,0,2,Nonsense,0,2,Makes Sense,1,3
+the home field.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the home fire.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,2
+the home garden.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the home gym.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the home holiday.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,3
+the home library.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the home oven.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the home pet.,Makes Sense,1,3,Nonsense,0,3,Makes Sense,1,3
+the home radio.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the home refrigerator.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the home road.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the home school.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the home shepherd.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the home ship.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the home stove.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,3
+the home summer.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the home taxi.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the home telephone.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the home television.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the home window.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the home winter.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the honey cake.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the honey gold.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the honey pie.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,2
+the honey pot.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the horse barn.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the horse book.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the horse cab.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the horse face.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the horse milk.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the horse police.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the horse shoe.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the hospital army.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,2
+the hospital building.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the hospital field.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the hospital lawn.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the hospital pants.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the hospital refrigerator.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the hospital surgeon.,Makes Sense,1,4,Makes Sense,1,4,Makes Sense,1,4
+the hotel butter.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the hotel cafe.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the hotel guy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the hotel pool.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the hotel restaurant.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the hotel star.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the hotel window.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the house baby.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the house beach.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the house bedroom.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the house boy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the house building.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the house chocolate.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the house coffee.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the house door.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the house flea.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,2
+the house grass.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the house gun.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the house harbour.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the house hen.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the house jail.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the house lake.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the house magazine.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the house mansion.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the house milk.,Makes Sense,1,4,Makes Sense,1,2,Nonsense,0,0
+the house money.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the house mouse.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,4
+the house nut.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the house pet.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the house phone.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,2
+the house pipe.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the house plant.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the house pool.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the house prison.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the house rabbit.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the house rainbow.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the house school.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the house sheet.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the house square.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the house star.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the house steak.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the house summer.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the house telephone.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the house tree.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the house wife.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the hurricane cycle.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the hurricane flag.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the hurricane summer.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the ice bag.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the ice banana.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the ice bridge.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the ice bullet.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the ice cap.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the ice chocolate.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the ice field.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the ice mountain.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the ice sea.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the ice shelf.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the ice strawberry.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the ice winter.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the infant child.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the infant gorilla.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the infant milk.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,3
+the infant puppy.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the infant seat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the infant stage.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the infant star.,Nonsense,0,4,Makes Sense,1,2,Nonsense,0,1
+the iris bed.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the island prison.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the island salad.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the island sand.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the island winter.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the jacket army.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the jacket book.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the jacket rain.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the jacket ski.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the jail doctor.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the jail house.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the jail phone.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the jail road.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the jar bell.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the jar lid.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the jaw neck.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the jaw surgeon.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,1
+the jaw teeth.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the jeans dress.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the jeans leg.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the jewel crown.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the jockey lawn.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the judge school.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the judge woman.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the juice apple.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the juice baby.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the juice cranberry.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the juice girl.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the juice grape.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the juice lemon.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the juice orange.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the juice peach.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the juice pickle.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the juice snake.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the juice tomato.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,2
+the kangaroo meat.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,3
+the kangaroo rat.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,4
+the key arrow.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the key book.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the key boot.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the key church.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the key door.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the key menu.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the key typewriter.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the key vehicle.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the kitchen chair.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the kitchen dish.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the kitchen door.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the kitchen drawer.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the kitchen field.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the kitchen garden.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the kitchen knife.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the kitchen oven.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the kitchen restaurant.,Makes Sense,1,4,Nonsense,0,3,Makes Sense,1,3
+the kitchen soup.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the kitchen window.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the kitten milk.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the kitten pet.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the kitten stage.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the kitten tiger.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the knee cap.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the knee pants.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,3
+the knife army.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the knife bread.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,2
+the knife butter.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the knife drawer.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the knife kitchen.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the knife magazine.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the knife pen.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,2
+the knife steak.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the lake bed.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the lake deer.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,2
+the lake forest.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the lake house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the lake mountain.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the lake river.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the lamb meat.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the lawn chair.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the lawn forest.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the lawn guy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the lawn hospital.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the lawn jockey.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the leaf autumn.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,3
+the leaf banana.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the leaf fire.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the leaf flower.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the leaf gold.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the leaf lettuce.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the leaf picture.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the leg bike.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the leg bird.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the leg chair.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the leg deer.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the leg fork.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the leg frog.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the leg jeans.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,3
+the leg pants.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,3
+the leg square.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the lemon cake.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the lemon grass.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the lemon juice.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the lemon pepper.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the lemon plant.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the lemon skin.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the leopard skin.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the lettuce leaf.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the library book.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,4
+the library chess.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the library church.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the library door.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the library home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the library photograph.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the library school.,Makes Sense,1,3,Nonsense,0,3,Makes Sense,1,4
+the library shelf.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the library tape.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the library toilet.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the library university.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the lid bowl.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the lid coffin.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the lid jar.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the lid piano.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the lid seat.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the lid toilet.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the lion mountain.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the lion sea.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the lizard corpse.,Makes Sense,1,2,Nonsense,0,1,Nonsense,0,1
+the lizard queen.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the lizard tongue.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the lobster fisherman.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the log book.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the log cabin.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the log chocolate.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the log pond.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the log radio.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the log square.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the log telephone.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the macaroni salad.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the magazine automobile.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the magazine bird.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the magazine book.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the magazine car.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the magazine cat.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the magazine dog.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the magazine house.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,2
+the magazine knife.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the magazine plant.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the magazine radio.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the magazine skin.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the mansion house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the mansion school.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the marble building.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the marble cake.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the mask face.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the mask fox.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the mask money.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the mask ski.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the mattress baby.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the mattress bed.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the meadow mountain.,Nonsense,0,3,Nonsense,0,3,Makes Sense,1,3
+the meat bird.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,3
+the meat cat.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the meat chicken.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the meat crab.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the meat deer.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the meat donkey.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,2
+the meat duck.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the meat goat.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the meat guy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the meat kangaroo.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,2
+the meat lamb.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the meat penguin.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the meat pig.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the meat tiger.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the meat whale.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the meat wolf.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the menu boot.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,0
+the menu breakfast.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the menu garden.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the menu key.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the menu phone.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the menu picture.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the menu screen.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the menu wine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the midnight cop.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the milk baby.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the milk bottle.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the milk breast.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the milk coffee.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,3
+the milk cottage.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the milk crate.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the milk door.,Makes Sense,1,2,Makes Sense,1,1,Nonsense,0,1
+the milk goat.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the milk horse.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the milk house.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the milk infant.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the milk kitten.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the milk mouse.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the milk nut.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the milk rabbit.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the milk sugar.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the milk teeth.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,1
+the milk thistle.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the milk truck.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the milk whale.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the mirror book.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the mirror face.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the mirror helmet.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the money bag.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,4
+the money blood.,Makes Sense,1,1,Makes Sense,1,1,Nonsense,0,0
+the money candy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the money cigarette.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the money clothes.,Nonsense,0,1,Makes Sense,1,1,Nonsense,0,1
+the money coin.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,3
+the money gold.,Makes Sense,1,4,Makes Sense,1,2,Nonsense,0,3
+the money house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,1
+the money mask.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the money orchestra.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,0
+the money pill.,Makes Sense,1,1,Makes Sense,1,3,Makes Sense,1,0
+the money pot.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the moon cycle.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the moon earth.,Nonsense,0,3,Nonsense,0,3,Nonsense,0,1
+the moon pie.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the moose bull.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the moose gun.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the mother blood.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,1
+the mother cat.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,3
+the mother child.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,4
+the mother chimp.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the mother dog.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the mother dress.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,3
+the mother goose.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,4
+the mother hairdresser.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the mother hawk.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the mother hen.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the mother plant.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,1
+the mother rainbow.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the mother ship.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,2
+the mother tongue.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,4
+the mountain bike.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the mountain building.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,1
+the mountain candy.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the mountain cave.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the mountain face.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the mountain forest.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the mountain goat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the mountain golf.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the mountain ice.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the mountain lake.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the mountain lion.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the mountain meadow.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the mountain road.,Makes Sense,1,3,Nonsense,0,3,Makes Sense,1,4
+the mountain stream.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the mountain sunset.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the mountain winter.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the mountain woman.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the mouse church.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the mouse field.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the mouse house.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the mouse milk.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the mouse pet.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,2
+the mouth alligator.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the mouth boy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the mouth pig.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the mouth water.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,1
+the nail coffin.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,3
+the nail gun.,Makes Sense,1,4,Nonsense,0,2,Makes Sense,1,1
+the nail scissors.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the nail thumb.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the nail toe.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the neck bottle.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the neck giraffe.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the neck jaw.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,2
+the necklace diamond.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the necklace gold.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the necklace pearl.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the newspaper boy.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the newspaper photograph.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the newspaper school.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the newspaper sister.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the nose chocolate.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the nose cucumber.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the nose snow.,Nonsense,0,1,Nonsense,0,3,Nonsense,0,1
+the nurse boy.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the nurse prison.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the nurse school.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the nut bag.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the nut banana.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the nut car.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the nut gun.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the nut house.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,2
+the nut milk.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the nut pine.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the nut tree.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the ocean bed.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the ocean summer.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the ocean surf.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the ocean swimming.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the ocean water.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the onion bag.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the onion bulb.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the onion soup.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the orange arrow.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the orange baby.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,0
+the orange ball.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the orange cage.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the orange cake.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the orange cat.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the orange flame.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the orange juice.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,4
+the orange tent.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,2
+the orange tree.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the orchestra money.,Nonsense,0,1,Nonsense,0,3,Nonsense,0,0
+the orchestra radio.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the orchestra school.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the oven dish.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the oven door.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the oven home.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the oven kitchen.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,3
+the oven shelf.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,3
+the owl pet.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the painting guy.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the palace window.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the pants bike.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the pants boy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the pants clown.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the pants hospital.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the pants knee.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,2
+the pants leg.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the pants rain.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the parrot cage.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the pea dwarf.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the pea plant.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the pea soup.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the peach juice.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the peach pie.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the peach raspberry.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,2
+the peach tree.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the peacock chair.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the pearl heart.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,3
+the pearl necklace.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pen bull.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the pen chicken.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the pen fountain.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the pen knife.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the pen pig.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the pen sheep.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the pendulum clock.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the penguin meat.,Nonsense,0,1,Makes Sense,1,2,Makes Sense,1,1
+the pepper bell.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,4
+the pepper lemon.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the pet bird.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pet cat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pet chicken.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the pet dog.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,2
+the pet door.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the pet duck.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the pet goat.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the pet home.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,2
+the pet house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the pet kitten.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the pet mouse.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the pet owl.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the pet pig.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pet puppy.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the pet rat.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,2
+the pet rock.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the pet snake.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the phone book.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,3
+the phone car.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the phone field.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the phone house.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the phone jail.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the phone menu.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the phone radio.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the phone shoe.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the phone street.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the phone truck.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the photograph library.,Makes Sense,1,4,Makes Sense,1,2,Nonsense,0,3
+the photograph newspaper.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,3
+the piano bench.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the piano lid.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pickle juice.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,2
+the picture baby.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the picture beach.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the picture book.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the picture cloud.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the picture dog.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the picture dollar.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the picture garden.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the picture guy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the picture leaf.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the picture menu.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the picture television.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the pie apple.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the pie banana.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the pie honey.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the pie moon.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the pie peach.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the pie plum.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the pie pot.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the pie potato.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the pie salmon.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the pie steak.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the pig boy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the pig farmer.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,3
+the pig gold.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the pig meat.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pig mouth.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the pig pen.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,4
+the pig pet.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,1
+the pig skin.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the pig truck.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,0
+the pigeon rock.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the pill bottle.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the pill gun.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the pill money.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the pill sugar.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the pill water.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,3
+the pine forest.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pine nut.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pine tree.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pipe bomb.,Makes Sense,1,1,Makes Sense,1,1,Makes Sense,1,4
+the pipe book.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the pipe house.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the pipe pot.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the pipe smoke.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the pipe water.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,4
+the plant banana.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the plant building.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the plant car.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the plant garden.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the plant house.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,2
+the plant lemon.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,1
+the plant magazine.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the plant mother.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the plant pea.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the plant radio.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the plant strawberry.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the plant sugar.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the plant tomato.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the plant water.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the plum pie.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the plum sugar.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the police bomb.,Makes Sense,1,1,Makes Sense,1,2,Makes Sense,1,2
+the police car.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the police clock.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the police clothes.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the police dog.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,4
+the police horse.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the police radio.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the police river.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,2
+the police sailor.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the police school.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the police star.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the police tape.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the police telephone.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the police truck.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,3
+the police van.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the police vehicle.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the pond building.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the pond duck.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the pond log.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the pony school.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the pool boy.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the pool dog.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the pool garden.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the pool hotel.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the pool house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pool sun.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the pool swimming.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the pool volcano.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the pool water.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the pot chicken.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the pot coffee.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the pot flower.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the pot honey.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the pot money.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the pot pie.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the pot pipe.,Nonsense,0,1,Nonsense,0,3,Makes Sense,1,2
+the pot soup.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the pot tea.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the pot winter.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the potato flour.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,3
+the potato pie.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the potato salad.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the potato soup.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the potato water.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the prince blood.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the prince crown.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,3
+the prison building.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the prison clothes.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the prison door.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the prison garden.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the prison house.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the prison island.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the prison nurse.,Nonsense,0,3,Nonsense,0,2,Makes Sense,1,2
+the prison radio.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the prison ship.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the prison van.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the pup bull.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the pup tent.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the puppy book.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the puppy dog.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,4
+the puppy infant.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the puppy pet.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the queen ant.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the queen bee.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the queen diamond.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,2
+the queen lizard.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the queen tennis.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the rabbit baby.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the rabbit house.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the rabbit milk.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the radio army.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the radio car.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the radio fire.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the radio guy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the radio ham.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,1
+the radio home.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,2
+the radio log.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,2
+the radio magazine.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the radio orchestra.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the radio phone.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the radio plant.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the radio police.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the radio prison.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the radio rock.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the radio school.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the radio tower.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the radio vehicle.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the raft river.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the railroad bridge.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the railroad building.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the railroad car.,Makes Sense,1,4,Makes Sense,1,2,Makes Sense,1,3
+the railroad field.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the rain cloud.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rain forest.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rain jacket.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rain pants.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the rain sheet.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the rain summer.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the rain water.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the rain winter.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the rainbow circle.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the rainbow flag.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the rainbow house.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the rainbow mother.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the rainbow trout.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the raspberry peach.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the rat face.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the rat gym.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the rat kangaroo.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the rat pet.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,3
+the rat river.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the rat swimming.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,2
+the refrigerator bulb.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the refrigerator door.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the refrigerator home.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the refrigerator hospital.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the refrigerator truck.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the restaurant hotel.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,3
+the restaurant kitchen.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rib cage.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rib chicken.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the river bed.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the river dolphin.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the river lake.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the river police.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the river raft.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the river rat.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the river sand.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the river taxi.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the river trout.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the river valley.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the river water.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the roach water.,Nonsense,0,1,Nonsense,0,1,Nonsense,0,1
+the road beach.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the road bed.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the road brick.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the road building.,Makes Sense,1,2,Nonsense,0,3,Makes Sense,1,3
+the road cafe.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,2
+the road fire.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the road forest.,Makes Sense,1,2,Nonsense,0,3,Makes Sense,1,2
+the road gold.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the road home.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the road jail.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the road mountain.,Makes Sense,1,3,Nonsense,0,3,Makes Sense,1,3
+the road shoe.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the road truck.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the road vehicle.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the rock cafe.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,3
+the rock candy.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the rock flour.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,0
+the rock pet.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the rock pigeon.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the rock radio.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the rock salmon.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the rock sheet.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the rock star.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the rocket engine.,Makes Sense,1,4,Nonsense,0,3,Makes Sense,1,4
+the rocket fire.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the rocket guy.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,0
+the rocket ship.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rocket ski.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the rocket sky.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the rocket water.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the rope axe.,Makes Sense,1,2,Nonsense,0,1,Nonsense,0,1
+the rope bridge.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rose forest.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,2
+the rose garden.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the rose summer.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,2
+the rose sun.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,1
+the sailor boy.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the sailor police.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the salad chicken.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the salad corn.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the salad cranberry.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the salad cucumber.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the salad dish.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the salad flower.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the salad garden.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the salad island.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,0
+the salad macaroni.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the salad potato.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the salad shrimp.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the salad tomato.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the salmon beef.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the salmon dish.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the salmon pie.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the salmon rock.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the salmon steak.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sand beach.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sand island.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,3
+the sand river.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,2
+the school bag.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the school ballet.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the school bible.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the school bomb.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the school book.,Makes Sense,1,4,Makes Sense,1,4,Makes Sense,1,4
+the school building.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the school church.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the school clothes.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the school clown.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the school cop.,Nonsense,0,4,Makes Sense,1,3,Nonsense,0,2
+the school dog.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the school field.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,3
+the school gym.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the school holiday.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the school home.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the school house.,Makes Sense,1,1,Makes Sense,1,3,Makes Sense,1,3
+the school judge.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the school library.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the school mansion.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the school newspaper.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the school nurse.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,4
+the school orchestra.,Makes Sense,1,3,Makes Sense,1,4,Makes Sense,1,4
+the school police.,Nonsense,0,2,Nonsense,0,2,Makes Sense,1,3
+the school pony.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the school radio.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the school sword.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the school university.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the scissors nail.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,3
+the screen alcohol.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the screen boot.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the screen cap.,Makes Sense,1,4,Makes Sense,1,2,Nonsense,0,2
+the screen door.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the screen menu.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the screen smoke.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,2
+the screen star.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the screen sun.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the screen window.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the sea bird.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the sea cucumber.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,4
+the sea ice.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the sea lion.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sea water.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sea winter.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the sea witch.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the seat bed.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,2
+the seat bench.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,3
+the seat bike.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,3
+the seat bird.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the seat car.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the seat chair.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the seat child.,Makes Sense,1,2,Makes Sense,1,4,Makes Sense,1,3
+the seat infant.,Nonsense,0,2,Makes Sense,1,4,Makes Sense,1,3
+the seat lid.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the seat toilet.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,3
+the seat window.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the shark skin.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the sheep dog.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the sheep field.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the sheep pen.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the sheet bed.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the sheet circle.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the sheet crib.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the sheet face.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the sheet house.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the sheet rain.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the sheet rock.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,1
+the shelf book.,Nonsense,0,4,Makes Sense,1,3,Nonsense,0,2
+the shelf ice.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the shelf library.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the shelf oven.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the shepherd boy.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the shepherd home.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the ship building.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the ship coffin.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the ship cow.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the ship dress.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the ship engine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the ship flag.,Makes Sense,1,3,Nonsense,0,2,Makes Sense,1,2
+the ship home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the ship mother.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the ship prison.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the ship rocket.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,2
+the ship star.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the ship toilet.,Makes Sense,1,1,Nonsense,0,1,Nonsense,0,0
+the shirt dress.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the shirt golf.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the shoe circle.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,1
+the shoe horse.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the shoe phone.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the shoe road.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the shoe tennis.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the shrimp cocktail.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the shrimp salad.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the sister baby.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the sister newspaper.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,2
+the sister university.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the ski cabin.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the ski cap.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the ski jacket.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the ski mask.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the ski rocket.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the ski star.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the ski tights.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the ski water.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the ski winter.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the skin alligator.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the skin banana.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,0
+the skin cap.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the skin cat.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the skin lemon.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,0
+the skin leopard.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the skin magazine.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the skin pig.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the skin shark.,Makes Sense,1,3,Nonsense,0,1,Nonsense,0,1
+the skin tiger.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the skin zebra.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the sky rocket.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the sky summer.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the sky tower.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the sled dog.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the sleigh bell.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the smoke cigar.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the smoke cigarette.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the smoke cloud.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,2
+the smoke pipe.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the smoke screen.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the snake juice.,Makes Sense,1,2,Nonsense,0,1,Nonsense,0,0
+the snake pet.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the snake tongue.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the snow bird.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the snow cave.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the snow nose.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the snow tree.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the snow truck.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,3
+the snow water.,Nonsense,0,1,Makes Sense,1,3,Makes Sense,1,1
+the snow winter.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the soap bottle.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,3
+the soap bubble.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the soap dish.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the soap dove.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the soap flea.,Makes Sense,1,1,Nonsense,0,2,Nonsense,0,1
+the soap star.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the soap television.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,0
+the soup bag.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the soup blood.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the soup bowl.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the soup chicken.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the soup chocolate.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the soup duck.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the soup frog.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the soup kitchen.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the soup onion.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,3
+the soup pea.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the soup pot.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the soup potato.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the soup tomato.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the spa tub.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the spider wolf.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,0
+the square cake.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the square field.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,2
+the square house.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the square leg.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the square log.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the squirrel baby.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,3
+the stage ape.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the stage boot.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the stage breast.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the stage clothes.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the stage cycle.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,1
+the stage door.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the stage face.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,2
+the stage flood.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the stage infant.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the stage kitten.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the stage tights.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the stage vehicle.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the star chocolate.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the star dwarf.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,2
+the star earth.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the star farmer.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the star field.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the star flag.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the star gold.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,1
+the star hotel.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the star house.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the star infant.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the star police.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the star rock.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the star screen.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,1
+the star ship.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the star ski.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the star soap.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the star television.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the star tennis.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the star vehicle.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the steak house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the steak knife.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the steak pie.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the steak salmon.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the stove home.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the strawberry ice.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the strawberry plant.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the stream bed.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the stream blood.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the stream mountain.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the stream sunshine.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the street automobile.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the street bike.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the street car.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the street clothes.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the street cop.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the street engine.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,1
+the street phone.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the sugar blood.,Nonsense,0,1,Nonsense,0,2,Nonsense,0,1
+the sugar bowl.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sugar corn.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the sugar milk.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the sugar pill.,Nonsense,0,1,Makes Sense,1,3,Makes Sense,1,4
+the sugar plant.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the sugar plum.,Nonsense,0,4,Makes Sense,1,3,Makes Sense,1,4
+the sugar water.,Nonsense,0,1,Makes Sense,1,3,Makes Sense,1,3
+the summer beach.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the summer beard.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the summer bike.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the summer building.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,1
+the summer clothes.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the summer dress.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the summer hay.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the summer holiday.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the summer home.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the summer house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the summer hurricane.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the summer ocean.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the summer rain.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the summer rose.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the summer sky.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the summer sun.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sun autumn.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the sun dress.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sun pool.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the sun rose.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,2
+the sun screen.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sun summer.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the sun winter.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the sunlight winter.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the sunset beach.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the sunset mountain.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the sunshine stream.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the surf ocean.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,4
+the surgeon heart.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the surgeon hospital.,Makes Sense,1,3,Makes Sense,1,4,Nonsense,0,3
+the surgeon jaw.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,4
+the swan dress.,Nonsense,0,4,Makes Sense,1,2,Nonsense,0,2
+the swimming ocean.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the swimming pool.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the swimming rat.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,2
+the swimming whale.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,2
+the sword arm.,Nonsense,0,2,Nonsense,0,2,Nonsense,0,3
+the sword cane.,Nonsense,0,3,Nonsense,0,1,Makes Sense,1,1
+the sword school.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the tape duck.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,2
+the tape library.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the tape police.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the taxi cab.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the taxi home.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the taxi river.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the tea bag.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tea coffee.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the tea pot.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the tea tree.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the teeth baby.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the teeth gold.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the teeth jaw.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the teeth milk.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the teeth wolf.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the teeth zipper.,Nonsense,0,1,Nonsense,0,3,Nonsense,0,1
+the telephone book.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the telephone guy.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the telephone home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the telephone house.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the telephone log.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the telephone police.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the television bedroom.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the television breakfast.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the television chef.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the television dollar.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the television holiday.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the television home.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,2
+the television picture.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the television soap.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the television star.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the tennis ball.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tennis bracelet.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tennis diamond.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the tennis dress.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,3
+the tennis queen.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the tennis shoe.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tennis star.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,4
+the tent orange.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the tent pup.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the tent umbrella.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the thistle milk.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the thumb nail.,Nonsense,0,3,Makes Sense,1,2,Makes Sense,1,4
+the tiger kitten.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,2
+the tiger meat.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the tiger skin.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the tights ski.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the tights stage.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,1
+the toad frog.,Nonsense,0,3,Makes Sense,1,2,Nonsense,0,2
+the toe nail.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the toilet bowl.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the toilet dog.,Nonsense,0,2,Nonsense,0,3,Nonsense,0,0
+the toilet library.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the toilet lid.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the toilet seat.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the toilet ship.,Makes Sense,1,2,Nonsense,0,2,Nonsense,0,0
+the tomato apple.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the tomato juice.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the tomato plant.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tomato salad.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tomato soup.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tongue butt.,Nonsense,0,1,Nonsense,0,0,Nonsense,0,0
+the tongue lizard.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the tongue mother.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the tongue snake.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,2
+the tooth gold.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the tower bell.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tower radio.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the tower sky.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the tower water.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the trash bag.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,4
+the trash boy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the trash truck.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the tree apple.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the tree ball.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the tree banana.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the tree cat.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the tree chestnut.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the tree cliff.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,3
+the tree frog.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the tree house.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the tree nut.,Makes Sense,1,4,Makes Sense,1,2,Nonsense,0,1
+the tree orange.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,0
+the tree peach.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the tree pine.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,4
+the tree snow.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the tree tea.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the trout bull.,Makes Sense,1,3,Nonsense,0,2,Nonsense,0,1
+the trout rainbow.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the trout river.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the truck army.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,2
+the truck bag.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,2
+the truck body.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the truck bomb.,Makes Sense,1,2,Makes Sense,1,2,Makes Sense,1,3
+the truck cab.,Makes Sense,1,4,Nonsense,0,2,Makes Sense,1,3
+the truck cattle.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the truck fire.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the truck milk.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the truck phone.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the truck pig.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the truck police.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the truck refrigerator.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the truck road.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the truck snow.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,2
+the truck trash.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the truck water.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the trumpet baby.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,1
+the tub spa.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the tulip bulb.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the typewriter key.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the umbrella beach.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the umbrella cocktail.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,3
+the umbrella tent.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the university library.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the university school.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the university sister.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the valley girl.,Makes Sense,1,2,Nonsense,0,3,Nonsense,0,3
+the valley river.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the van police.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the van prison.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the vehicle engine.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the vehicle field.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the vehicle key.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the vehicle police.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the vehicle radio.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the vehicle road.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the vehicle stage.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the vehicle star.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the vine grape.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the vodka bottle.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the volcano pool.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the water baby.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,1
+the water bed.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the water body.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the water bowl.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the water boy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the water field.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the water flour.,Makes Sense,1,2,Nonsense,0,1,Nonsense,0,0
+the water foot.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the water fountain.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the water mouth.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
+the water ocean.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,4
+the water pill.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the water pipe.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the water plant.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the water pool.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,3
+the water potato.,Nonsense,0,2,Nonsense,0,1,Nonsense,0,0
+the water rain.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,2
+the water river.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,1
+the water roach.,Nonsense,0,1,Makes Sense,1,2,Nonsense,0,1
+the water rocket.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the water sea.,Makes Sense,1,4,Makes Sense,1,3,Nonsense,0,2
+the water ski.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the water snow.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,1
+the water sugar.,Makes Sense,1,1,Makes Sense,1,3,Nonsense,0,0
+the water tower.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the water truck.,Makes Sense,1,3,Makes Sense,1,2,Nonsense,0,1
+the weed butterfly.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the weed cop.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the weed guy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,1
+the whale meat.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the whale milk.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the whale swimming.,Makes Sense,1,3,Nonsense,0,3,Makes Sense,1,4
+the wife army.,Nonsense,0,1,Makes Sense,1,3,Nonsense,0,1
+the wife farmer.,Makes Sense,1,1,Nonsense,0,3,Nonsense,0,1
+the wife house.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the window bedroom.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the window bus.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the window cab.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,3
+the window cabin.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the window car.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the window garden.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the window home.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,2
+the window hotel.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the window kitchen.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the window palace.,Makes Sense,1,3,Nonsense,0,3,Nonsense,0,2
+the window screen.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the window seat.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the wine bottle.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the wine candy.,Nonsense,0,2,Makes Sense,1,2,Nonsense,0,2
+the wine garden.,Nonsense,0,3,Makes Sense,1,3,Nonsense,0,2
+the wine menu.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,4
+the winter ball.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,2
+the winter clothes.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the winter home.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the winter ice.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the winter island.,Nonsense,0,2,Makes Sense,1,3,Makes Sense,1,3
+the winter mountain.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the winter pot.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,1
+the winter rain.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,4
+the winter sea.,Makes Sense,1,2,Makes Sense,1,3,Makes Sense,1,3
+the winter ski.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the winter snow.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,4
+the winter sun.,Nonsense,0,4,Makes Sense,1,3,Nonsense,0,3
+the winter sunlight.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,3
+the winter wolf.,Makes Sense,1,3,Makes Sense,1,3,Makes Sense,1,2
+the witch doctor.,Makes Sense,1,3,Makes Sense,1,2,Makes Sense,1,4
+the witch sea.,Makes Sense,1,1,Makes Sense,1,2,Nonsense,0,1
+the wolf meat.,Nonsense,0,2,Makes Sense,1,2,Makes Sense,1,3
+the wolf spider.,Makes Sense,1,2,Makes Sense,1,1,Makes Sense,1,4
+the wolf teeth.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,3
+the wolf winter.,Makes Sense,1,3,Makes Sense,1,3,Nonsense,0,3
+the woman judge.,Makes Sense,1,4,Makes Sense,1,3,Makes Sense,1,3
+the woman mountain.,Nonsense,0,3,Nonsense,0,2,Nonsense,0,1
+the worm book.,Makes Sense,1,2,Makes Sense,1,2,Nonsense,0,1
+the worm farmer.,Nonsense,0,2,Makes Sense,1,3,Nonsense,0,2
+the yarn ball.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the zebra skin.,Nonsense,0,3,Makes Sense,1,3,Makes Sense,1,4
+the zipper teeth.,Makes Sense,1,2,Nonsense,0,2,Makes Sense,1,3
+the zoo bird.,Makes Sense,1,2,Makes Sense,1,3,Nonsense,0,2
