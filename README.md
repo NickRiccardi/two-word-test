@@ -1,6 +1,6 @@
 # Two Word Test
 ## Combinatorial Semantics Benchmark for Large Language Models (LLMs)
-### Nicholas Riccardi and Rutvik Desai - University of South Carolina Department of Psychology
+### Nicholas Riccardi, Xuan Yang, and Rutvik Desai - University of South Carolina Department of Psychology
 
 LLMs sometimes struggle with word-order effects and compositional (or combinatorial) language processes, especially when surrounding context is absent. Here, we provide the Two Word Test, a series of functions that compares LLM meaningfulness judgments of simple two word phrases to meaningfulness judgments made by humans (Graves et al., 2013; https://doi.org/10.3758/s13428-012-0256-3).
 
